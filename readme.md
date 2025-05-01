@@ -14,7 +14,8 @@ This workshop is designed for beginners, but we will be covering a lot of conten
 
 ### Recordings from live demos on Sunday:
 
-Will be added after the session is complete.
+- [https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=76029d29-a202-46a8-b6f3-b2b0002f9642](https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=76029d29-a202-46a8-b6f3-b2b0002f9642)
+- [https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=a27bad71-a88e-4e7e-b50a-b2b0000f287f](https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=a27bad71-a88e-4e7e-b50a-b2b0000f287f)
 
 ### Useful links:
 
