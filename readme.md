@@ -9,13 +9,7 @@ This workshop is designed for beginners, but we will be covering a lot of conten
 ### Resources:
 
 - Slides: [https://docs.google.com/presentation/d/17-i5pLCENpcKqJ-xOqaWo85nO7yaHfl9BoYYQ71MDX8/edit?usp=sharing](https://docs.google.com/presentation/d/17-i5pLCENpcKqJ-xOqaWo85nO7yaHfl9BoYYQ71MDX8/edit?usp=sharing)
-- Zoom link for screenshare: [https://auckland.zoom.us/j/92794018821?pwd=UXgrR2RTMlJIaUppQXd6dnMvM3lUdz09](https://auckland.zoom.us/j/92794018821?pwd=UXgrR2RTMlJIaUppQXd6dnMvM3lUdz09)
 - The IDE that will be used for the live demos: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### Recordings from live demos on Sunday:
-
-- [https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=a27bad71-a88e-4e7e-b50a-b2b0000f287f](https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=a27bad71-a88e-4e7e-b50a-b2b0000f287f)
-- [https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=76029d29-a202-46a8-b6f3-b2b0002f9642](https://auckland.au.panopto.com/Panopto/Pages/Viewer.aspx?id=76029d29-a202-46a8-b6f3-b2b0002f9642)
 
 
 ### Useful links:
@@ -26,14 +20,12 @@ This workshop is designed for beginners, but we will be covering a lot of conten
 ### Timings:
 
 - 11am: Introductions
-- 11:05am: High-level Overview
+- 11:10am: High-level Overview 
 - 11:15am: HTML & CSS theory
 - 12pm: Practical Block #1
-- 12:45pm: Break
-- 12:55pm: Practical Block #2
-- 1:40pm: Break
-- 2:20pm: Theory Component #2
-- 2:40pm: Practical Block #3
+- 1:15pm: Lunch break
+- 2:00pm: Practical Block #2
+- 3:00pm: Wrap up
 
 ## Practical project for the workshop:
 
@@ -42,6 +34,8 @@ For this workshop, we will be creating a basic web page layout.
 The workshop will be run as a live coding follow along session. We will go through the task slowly together so that we can investigate the key skills that we are covering.
 
 You should work within the `exercise` directory. An extra copy of the code is included within the `live-demo` directory; the `live-demo` directory will be updated to include the code that is completed by the instructor during the session.
+
+As a bonus, the `example-project` directory has a number guessing game with some simple JavaScript (not covered in this workshop). Have a go at changing the CSS or looking at the JS code for inspiration.
 
 The live demo component is designed to allow various concepts and skills to be developed in a practical context; this is ideal for demonstrating the process of using a range of tools and techniques for developing & testing the page.
 
