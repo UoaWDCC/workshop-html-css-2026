@@ -8,7 +8,7 @@ This workshop is designed for beginners, but we will be covering a lot of conten
 
 ### Resources:
 
-- Slides: [https://docs.google.com/presentation/d/17-i5pLCENpcKqJ-xOqaWo85nO7yaHfl9BoYYQ71MDX8/edit?usp=sharing](https://docs.google.com/presentation/d/17-i5pLCENpcKqJ-xOqaWo85nO7yaHfl9BoYYQ71MDX8/edit?usp=sharing)
+- Slides: [https://docs.google.com/presentation/d/159KTCyVUS6us1JMWEdlVgjd1Xc7-wYZD3I-_rz0ZZf4/edit?slide=id.p#slide=id.p](https://docs.google.com/presentation/d/159KTCyVUS6us1JMWEdlVgjd1Xc7-wYZD3I-_rz0ZZf4/edit?slide=id.p#slide=id.p)
 - The IDE that will be used for the live demos: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 
