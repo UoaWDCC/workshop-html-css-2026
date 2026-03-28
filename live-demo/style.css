@@ -1,7 +1,12 @@
-* { border: 1px solid black;}
+/* * { border: 1px solid black;} */
 
 .right {
     text-align: center;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .edit-button {
@@ -25,14 +30,12 @@
     max-width: 900px;
     margin: auto;
     margin-top: 10vh;
+    box-shadow: 1px 2px 6px 7px rgba(0, 0, 0, 0.169);
+    border-radius: 50px ;
 }
 
 .left {
     width: 30%;
-}
-
-.right {
-    width: 70%;
 }
 
 .contact-card {
@@ -42,4 +45,29 @@
 .contact-cards {
     max-height: 510px; 
     overflow: auto;
+}
+
+.right img, .contact-cards img {
+    border-radius: 50%;
+}
+
+.contact-card {
+    display: flex;
+    align-items: center;
+    height: 120px;
+    padding-left: 40px;
+    transition: 1s;
+}
+
+.contact-card img {
+    width: 60px;
+}
+
+.contact-card p {
+    margin-left: 40px;
+}
+
+.contact-card:hover {
+    /* background-color: rgba(137, 43, 226, 0.256); */
+    background-color: lightskyblue;
 }
