@@ -1,0 +1,45 @@
+* { border: 1px solid black;}
+
+.right {
+    text-align: center;
+}
+
+.edit-button {
+    background-color: rgb(230, 18, 230);
+    color: white;
+    border: none;
+    border-radius: 4px; 
+    padding: 8px 22px;
+}
+
+.delete-button {
+    color: red;
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 4px;
+    padding: 8px 22px;
+}
+
+.main {
+    display: flex;
+    max-width: 900px;
+    margin: auto;
+    margin-top: 10vh;
+}
+
+.left {
+    width: 30%;
+}
+
+.right {
+    width: 70%;
+}
+
+.contact-card {
+    display: flex;
+}
+
+.contact-cards {
+    max-height: 510px; 
+    overflow: auto;
+}
